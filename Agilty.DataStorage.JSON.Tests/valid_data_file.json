@@ -1,0 +1,24 @@
+﻿{
+    "TestTable": {
+        "default": {
+            "Id": "##NewGUID##",
+            "Name": "name ##NewGuid##"
+        },
+        "QX": {
+            "Id": "qx id",
+            "Name": "qx name"
+        },
+        "DEMO": {
+            "Id": "demo id",
+            "Name": "demo name"
+        },
+        "STAGING": {
+            "Id": "staging id",
+            "Name": "staging name"
+        },
+        "PRODUCTION": {
+            "Id": "production id",
+            "Name": "production name"
+        }
+    }
+}
